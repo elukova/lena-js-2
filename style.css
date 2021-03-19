@@ -1,0 +1,16 @@
+button {
+    padding: 20px;
+    background-color: rgba(221, 122, 10, 0.577);
+}
+
+.form-box .input_error, .form-box .p_error {
+    border-color: red;
+    @@ -11, 4+16, 12 @@ .form-box .error-text {
+        color: red;
+    }
+    .box-next-ex {
+        display: none;
+    }
+    .box-next-ex span {
+        color: black;
+    }
