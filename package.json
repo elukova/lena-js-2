@@ -1,0 +1,21 @@
+{
+  "name": "js2-lesson7_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scriptT.js",
+  "scripts": {
+    "test": "jasmine",
+    "build": "webpack"
+  },
+  "author": "elena e (e_l_e_n_24@mail.ru)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jasmine": "^3.7.0",
+    "webpack": "^5.30.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
